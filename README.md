@@ -13,7 +13,7 @@ Laundry app is a spartan web application for tracking existing and ongoing laund
 
 ## Introduction
 
-This is my initial attempt at developing a web application.
+This is my initial attempt at developing a simple web application.
 
 The objective is to learn and apply the following web development concepts:
 

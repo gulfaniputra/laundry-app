@@ -1,0 +1,63 @@
+.box-header-title {
+  text-align: center;
+  padding: 1em;
+  border: solid;
+  margin: 1.5em 25em 1.5em 25em;
+}
+
+.box-header-subtitle {
+  text-align: center;
+  padding: 1em;
+  border: solid;
+  margin: 1.5em 30em 1.5em 30em;
+}
+
+.box-main {
+  text-align: center;
+  padding: 0.5em;
+  border: solid;
+  margin: 1.5em 38em 1.5em 38em;
+}
+
+.box-summary-status {
+  text-align: left;
+  padding: 0.3em;
+  border: solid;
+  margin: 1.1em 33em 1.1em 33em;
+}
+
+.box-end-screen-cta {
+  text-align: center;
+  padding: 1em;
+  border: solid;
+  margin: 1.1em 33em 1.1em 33em;
+}
+
+.box-end-screen-title {
+  text-align: center;
+  padding: 1em;
+  border: solid;
+  margin: 10em 25em 0em 25em;
+}
+
+.order-header {
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.colon-align span {
+  display: inline-block;
+  min-width: 80px;
+}
+
+span {
+  font-weight: bold;
+}
+
+.box-footer {
+  text-align: center;
+  padding: 0.5em;
+  border: solid;
+  margin: 1.5em 25em 1.5em 25em;
+}
