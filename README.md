@@ -2,13 +2,9 @@
 
 _**Note:** this project is a work in progress_
 
-_**Progress report:** converting wireframe to MVP with basic HTML, CSS, & JavaScript_
+_**Progress report:** converting wireframe to MVP with basic HTML, CSS, and JavaScript_
 
-_**MVP's live preview:** [start screen](https://gulfaniputra.github.io/laundry-app/)_
-
-_**MVP's live preview:** [order summary & status](https://gulfaniputra.github.io/laundry-app/order-summary-status.html)_
-
-_**MVP's live preview:** [end screen](https://gulfaniputra.github.io/laundry-app/end-screen.html)_
+_**MVP's live previews:** [start screen](https://gulfaniputra.github.io/laundry-app/), [order summary & status](https://gulfaniputra.github.io/laundry-app/order-summary-status.html), and [end screen](https://gulfaniputra.github.io/laundry-app/end-screen.html)_
 
 Laundry app is a spartan web application for tracking existing and ongoing laundry order.
 
