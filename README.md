@@ -8,7 +8,7 @@ _**MVP's live previews:** [start screen](https://gulfaniputra.github.io/laundry-
 
 Laundry app is a spartan web application for tracking existing and ongoing laundry orders.
 
-## Table Of Contents:
+## Table Of Contents
 
 - [Introduction](#introduction)
 - [Tech Stack](#tech-stack)

@@ -35,12 +35,12 @@ body {
 }
 
 .main .login {
-  border: solid black;
-  padding: 1.4em;
+  /* border: solid black; */
+  padding: 1em;
 }
 
 .main .signup {
-  border: solid black;
+  /* border: solid black; */
   padding: 1em;
 }
 
@@ -52,7 +52,7 @@ body {
 
 .order-id {
   border: solid black;
-  padding: 1em;
+  padding: 1.5em;
 }
 
 .colon-align {
@@ -74,11 +74,19 @@ body {
 }
 
 .order-two {
-  padding: 1.1em;
+  padding: 1.8em;
+}
+
+.log-out {
+  padding: 1em;
 }
 
 .end {
   border: solid black;
+  padding: 1.5em;
+}
+
+.login-end {
   padding: 2em;
 }
 
