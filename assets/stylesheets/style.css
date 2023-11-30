@@ -90,6 +90,11 @@ body {
   padding: 2em;
 }
 
+.logo-end {
+  border: solid black;
+  padding: 2.5em;
+}
+
 footer {
 }
 
