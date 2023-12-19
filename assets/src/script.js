@@ -18,40 +18,30 @@ const laundryData = [
 ];
 
 function simulateLoginState() {
-  laundryData.forEach(function (data) {
-    let laundryOrder = document.createElement("h3");
-    laundryOrder.innerHTML = "Order: " + data.order;
-    document.getElementById("contents").append(laundryOrder);
+  laundryData.forEach((data) => {
+    let laundryOrderNumber = document.createElement("h3");
+    laundryOrderNumber.innerHTML = "Order: " + data.order;
+    document.getElementById("contents").append(laundryOrderNumber);
 
-    laundryData.forEach(function (data) {
-      let laundryOrder = document.createElement("p");
-      laundryOrder.innerHTML = "ID: " + data.id;
-      document.getElementById("contents").append(laundryOrder);
-    });
+    let laundryOrderId = document.createElement("p");
+    laundryOrderId.innerHTML = "ID: " + data.id;
+    document.getElementById("contents").append(laundryOrderId);
 
-    laundryData.forEach(function (data) {
-      let laundryOrder = document.createElement("p");
-      laundryOrder.innerHTML = "Weight: " + data.weight;
-      document.getElementById("contents").append(laundryOrder);
-    });
+    let laundryOrderWeight = document.createElement("p");
+    laundryOrderWeight.innerHTML = "Weight: " + data.weight;
+    document.getElementById("contents").append(laundryOrderWeight);
 
-    laundryData.forEach(function (data) {
-      let laundryOrder = document.createElement("p");
-      laundryOrder.innerHTML = "Price: " + data.price;
-      document.getElementById("contents").append(laundryOrder);
-    });
+    let laundryOrderPrice = document.createElement("p");
+    laundryOrderPrice.innerHTML = "Price: " + data.price;
+    document.getElementById("contents").append(laundryOrderPrice);
 
-    laundryData.forEach(function (data) {
-      let laundryOrder = document.createElement("p");
-      laundryOrder.innerHTML = "Status: " + data.status;
-      document.getElementById("contents").append(laundryOrder);
-    });
+    let laundryOrderStatus = document.createElement("p");
+    laundryOrderStatus.innerHTML = "Status: " + data.status;
+    document.getElementById("contents").append(laundryOrderStatus);
 
-    laundryData.forEach(function (data) {
-      let laundryOrder = document.createElement("p");
-      laundryOrder.innerHTML = "Pickup by: " + data.pickupBy;
-      document.getElementById("contents").append(laundryOrder);
-    });
+    let laundryOrderPickupBy = document.createElement("p");
+    laundryOrderPickupBy.innerHTML = "Pickup by: " + data.pickupBy;
+    document.getElementById("contents").append(laundryOrderPickupBy);
   });
 }
 
