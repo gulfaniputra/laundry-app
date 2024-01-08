@@ -11,22 +11,14 @@ Laundry app is a spartan web application for tracking existing and ongoing laund
 ## Table Of Contents
 
 - [Introduction](#introduction)
-- [Tech Stack](#tech-stack)
+- [Stack](#stack)
 
 ## Introduction
 
-This is my initial attempt at developing a simple web application.
+This is my initial attempt at developing a simple Laravel web application.
 
-The objective is to learn and apply the following web development concepts:
+The objective is to learn and apply the following web development concepts: OOP, MVC, SQL, and API.
 
-- OOP
-- MVC
-- SQL
-- API
+## Stack
 
-## Tech Stack
-
-- **Backend**: Laravel
-- **Database**: MySQL
-- **Frontend**: Vue
-- **UI**: Bootstrap
+Laravel, jQuery, and Bootstrap.
